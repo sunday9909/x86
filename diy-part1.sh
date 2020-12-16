@@ -19,4 +19,12 @@ src-git jerryk https://github.com/jerrykuku/openwrt-package
 src-git destan19 https://github.com/destan19/OpenAppFilter.git
 src-git kenzo https://github.com/kenzok8/openwrt-packages
 src-git small https://github.com/kenzok8/small
-
+src-git packages https://github.com/coolsnowwolf/packages
+src-git luci https://github.com/coolsnowwolf/luci
+src-git routing https://git.openwrt.org/feed/routing.git
+src-git telephony https://git.openwrt.org/feed/telephony.git
+src-git freifunk https://github.com/freifunk/openwrt-packages.git
+src-git helloworld https://github.com/fw876/helloworld
+src-git kenzo https://github.com/kenzok8/openwrt-packages.git
+src-git small https://github.com/kenzok8/small
+src-git destan19 https://github.com/destan19/OpenAppFilter.git
